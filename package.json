@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cron": "^2.1.0",
+    "mysql2": "^2.3.3",
+    "node-schedule": "^2.1.0"
+  },
+  "name": "jc0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
